@@ -1,0 +1,7 @@
+- LDR
+- Ultrasonic Sensor
+- LCD
+- Seven- segment display
+- IR Sensor
+- Servo motor
+- DC motor
