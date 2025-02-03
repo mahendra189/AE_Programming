@@ -7,7 +7,7 @@ int buttonState = 0;  // Variable to store button state
 void setup() {
   pinMode(motorPin1, OUTPUT);  // Set motor pins as output
   pinMode(motorPin2, OUTPUT);
-  pinMode(buttonPin, INPUT);  // Set button pin as input
+  pinMode(buttonPin, INPUT_PULLUP);  // Set button pin as input
 }
 
 void loop() {
